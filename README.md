@@ -4,7 +4,7 @@
 An Open Source Tool For Information Gathering 
 
 
-![](image/ip-identifier.png)
+![](images/ip-identifier.png)
 
 
 

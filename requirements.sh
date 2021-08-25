@@ -5,6 +5,7 @@ echo "--------------------------------------------------------------------------
 apt install figlet
 apt install curl
 apt install jq
+chmod +x ip-identifier
 cp ip-identifier /usr/local/bin/
 
 echo "--------------------------------------------------------------------------->>>>>>>"

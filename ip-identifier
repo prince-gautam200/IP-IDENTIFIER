@@ -2,7 +2,7 @@
 #WRITTEN BY PRINCE
 if [ "$1" == "" ]
 then
-echo "Usage: $0 <Ip-Address>"
+echo "Usage: ip-identifier <Ip-Address>"
 exit
 fi
 echo "----------------------------------------------->>>>>>>>>>>>"

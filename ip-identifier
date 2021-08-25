@@ -1,0 +1,42 @@
+#!/bin/bash
+#WRITTEN BY PRINCE
+if [ "$1" == "" ]
+then
+echo "Usage: $0 <Ip-Address>"
+exit
+fi
+echo "----------------------------------------------->>>>>>>>>>>>"
+#MAKING A REQUEST FROM CURL IN JSON FORMAT
+response=$(curl http://ip-api.com/json/$1 -s)
+status=$(echo $response | jq '.status' -r)
+if [ $status == "success" ]
+then
+figlet ip-identifier
+country=$(echo $response |jq '.country' -r)
+echo "Country     :$country"
+countryCode=$(echo $response |jq '.countryCode' -r)
+echo "CountryCode :$countryCode"
+region=$(echo $response |jq '.region' -r)
+echo "Region      :$region"
+regionName=$(echo $response |jq '.regionName' -r)
+echo "RegionName  :$regionName"
+city=$(echo $response |jq '.city' -r)
+echo "City        :$city"
+zip=$(echo $response |jq '.zip' -r)
+echo "Zip         :$zip"
+lat=$(echo $response |jq '.lat' -r)
+echo "Longitude   :$lat"
+lon=$(echo $response |jq '.lon' -r)
+echo "Latitude    :$lon"
+timezone=$(echo $response |jq '.timezone' -r)
+echo "Timezone    :$timezone"
+isp=$(echo $response |jq '.isp' -r)
+echo "ISP         :$isp"
+org=$(echo $response |jq '.org' -r)
+echo "Org         :$org"
+as=$(echo $response |jq '.as' -r)
+echo "AS          :$as"
+query=$(echo $response |jq '.query' -r)
+echo "Query       :$query"
+fi 
+echo "----------------------------------------------->>>>>>>>>>>>"

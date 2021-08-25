@@ -37,7 +37,8 @@ An Open Source Tool For Information Gathering
   
 ## Installation
 
-```git clone https://github.com/prince-gautam200/IP-IDENTIFIER.git
+```
+git clone https://github.com/prince-gautam200/IP-IDENTIFIER.git
 
 cd IP-IDENTIFIER/
 

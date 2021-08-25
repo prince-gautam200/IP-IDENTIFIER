@@ -45,7 +45,7 @@ chmod +x requirements.sh
 
 ./requirements.sh
 
-ip-identifier <ip-address>
+ip-identifier <ip address>
 ```
 
 ## Usage

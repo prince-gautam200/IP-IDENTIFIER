@@ -6,10 +6,6 @@ An Open Source Tool For Information Gathering
 
 ![](images/ip-identifier.png)
 
-
-
-
-
 ## Features
 
 - Scan both ipv4 and ipv6 Address
@@ -25,19 +21,10 @@ An Open Source Tool For Information Gathering
   + Longitude (May vary)
   + Timezone 
   + Intermet Service Provider
-
-    And Many More....!!!
-
   + Get a good looking interface
-  + Easy to use 
+  + Easy to use
 
   ![](images/ipimage.png)
-
-   
-
-
- 
-
   
 ## Installation
 
@@ -61,5 +48,3 @@ Usage: ip-identifier <ip-address>
 ## License
 
 MIT License
-
-  

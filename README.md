@@ -3,8 +3,10 @@
 
 An Open Source Tool For Information Gathering 
 
-
 ![](images/ip-identifier.png)
+
+
+
 
 ## Features
 
@@ -26,6 +28,9 @@ An Open Source Tool For Information Gathering
 
   ![](images/ipimage.png)
   
+
+
+
 ## Installation
 
 ```
@@ -40,11 +45,14 @@ chmod +x requirements.sh
 ip-identifier <ip address>
 ```
 
+
+
 ## Usage
 
-Usage: ip-identifier <ip-address>
+Usage: ip-identifier (ipaddr here)
 
-  
+
+
 ## License
 
 MIT License

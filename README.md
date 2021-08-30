@@ -1,12 +1,9 @@
 
 # IP-IDENTIFIER
 
-An Open Source Tool For Information Gathering 
+An Open Source Tool For Information Gathering called ip-identifier
 
 ![](images/ip-identifier.png)
-
-
-
 
 ## Features
 
@@ -22,14 +19,10 @@ An Open Source Tool For Information Gathering
   + Latitude (May Vary)
   + Longitude (May vary)
   + Timezone 
-  + Intermet Service Provider
-  + Get a good looking interface
-  + Easy to use
+  + Internet Service Provider
 
   ![](images/ipimage.png)
   
-
-
 
 ## Installation
 
@@ -45,13 +38,9 @@ chmod +x requirements.sh
 ip-identifier <ip address>
 ```
 
-
-
 ## Usage
 
 Usage: ip-identifier (ipaddr here)
-
-
 
 ## License
 

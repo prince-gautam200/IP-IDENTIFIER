@@ -3,7 +3,7 @@
 
 An Open Source Tool For Information Gathering called ip-identifier
 
-![](images/ip-identify.jpg)
+![](images/Ip-identify.jpg)
 
 ## Features
 

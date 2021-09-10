@@ -40,7 +40,7 @@ ip-identifier <ip address>
 
 ## Usage
 
-Usage: ip-identifier (ipaddr here)
+Usage: ip-identifier (ip-addres_here)
 
 ## License
 

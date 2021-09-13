@@ -45,3 +45,7 @@ Usage: ip-identifier (ip-address_here)
 ## License
 
 MIT License
+
+## Owner
+
+Prince Gautam ;)

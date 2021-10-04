@@ -3,9 +3,9 @@
 echo "THIS SCRIPT IS INSTALLING REQUIRED PREREQUISITES FOR IP-IDENTIFIER"
 echo "--------------------------------------------------------------------------->>>>>>>"
 
-apt install figlet
-apt install curl
-apt install jq
+apt install figlet -y
+apt install curl -y
+apt install jq -y
 
 chmod +x ip-identifier
 cp ip-identifier /usr/local/bin/

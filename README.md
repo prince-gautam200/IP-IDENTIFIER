@@ -42,12 +42,12 @@ ip-identifier <ip address>
 
 Usage: ip-identifier (ip-address_here)
 
-## License
-
-MIT License
 
 ## Authors
 
-@prince-gautam200
+- @prince-gautam200
+- Prince Gautam ;)
 
-Prince Gautam ;)
+## License
+
+MIT License

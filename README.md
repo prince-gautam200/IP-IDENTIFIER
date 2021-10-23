@@ -46,6 +46,7 @@ Usage: ip-identifier (ip-address_here)
 
 MIT License
 
-## Owner
+## Authors
 
+@prince-gautam200
 Prince Gautam ;)

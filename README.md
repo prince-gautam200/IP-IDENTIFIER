@@ -45,8 +45,8 @@ Usage: ip-identifier (ip-address_here)
 
 ## Authors
 
-- @prince-gautam200
-- Prince Gautam ;)
+- [@prince-gautam200](https://www.github.com/prince-gautam200)
+- Writtn By Prince Gautam ;)
 
 ## License
 
